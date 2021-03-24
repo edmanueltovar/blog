@@ -128,5 +128,6 @@
                 </div>
             </div>
         </div>
+        <img src="../img/ventilador1.jpg" alt="ventilador">
     </body>
 </html>
